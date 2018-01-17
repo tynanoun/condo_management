@@ -1,0 +1,18 @@
+.td-wrap-word-40-percents {
+    word-wrap: break-word !important;
+    width: 40% !important;
+}
+
+.td-wrap-word-30-percents {
+    word-wrap: break-word !important;
+    width: 30% !important;
+}
+
+.user-profile-img {
+    font-size: 30px !important;
+    color:darkslategrey;
+}
+
+.tab-pane .m-b-30 .card-box .col-md-4 {
+    padding-left : 24px !important;
+}
